@@ -5,4 +5,5 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_macan.mk
+    $(LOCAL_DIR)/lineage_macan.mk \
+    $(LOCAL_DIR)/petal_macan.mk

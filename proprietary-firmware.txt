@@ -1,7 +1,7 @@
 ## All proprietary files from this list, unless pinned and noted otherwise,
 ## are from OnePlus 15R (CPH2767_16.0.9.401(EX01)).
 
-abl.img;AB
+abl.img;AB|6bac3bd7e6c99ba6f3f1872c2fe07a44aa2a4603
 aop.img;AB
 aop_config.img;AB
 bluetooth.img;AB
