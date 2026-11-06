@@ -3,7 +3,8 @@ bluetooth.device.default_name=OnePlus 15R
 
 # Graphics
 ro.surface_flinger.set_display_power_timer_ms=1000
-ro.surface_flinger.set_idle_timer_ms=80
+# 0 = panel adfr handles idle, 80 fought it and cooked the soc on static screens
+ro.surface_flinger.set_idle_timer_ms=0
 ro.surface_flinger.set_touch_timer_ms=200
 
 # USB
